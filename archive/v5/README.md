@@ -2,6 +2,8 @@
 
 NHL (1918–2026), NFL (1966–2025), and NBA (1947–2026).
 
+This folder is served at `/archive/v5/`. Marks come from `../../logos/nhl/`, `../../logos/nfl/`, and `../../logos/nba/`, chosen by `../../catalog/season_lookup.js`. A missing lookup still tries this archive's `./logos/{SPORT}{year}/{abbr}.png`, then the abbreviation if that file fails. Logos are not copied into this archive.
+
 ## Screenshot
 
 ![](screenshot.png)

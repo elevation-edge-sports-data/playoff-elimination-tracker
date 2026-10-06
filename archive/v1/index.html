@@ -87,6 +87,7 @@
   </header>
   <div id="root"></div>
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+  <script src="../../catalog/season_lookup.js"></script>
   <script type="text/babel">
     const { useState, useEffect, useRef, Component } = React;
 
@@ -392,13 +393,16 @@
             .forEach(team => {
               const coords = teamCoordinates[team.team];
               const teamAbbr = team.team;
-              const logoUrl = `../../logos/NHL${selectedSeason}/${teamAbbr}.png`;
+              const file = globalThis.LOGO_SEASON_LOOKUP?.nhl?.[teamAbbr]?.[String(selectedSeason)];
+              const logoUrl = file ? `../../logos/nhl/${teamAbbr}/${file}` : '';
               console.log(`Attempting to load logo: ${logoUrl} at lat: ${coords.lat}, lon: ${coords.lon}, borders: ${showLogoBorders}`);
               
               const marker = L.marker([coords.lat, coords.lon], {
                 icon: L.divIcon({
                   className: 'team-logo',
-                  html: `<img src="${logoUrl}" alt="${teamAbbr}" style="width: 60px; height: 60px;${showLogoBorders ? ' border: 2px solid white;' : ''}" onerror="this.style.display='none'; this.parentNode.innerHTML='${teamAbbr}';" />`,
+                  html: file
+                    ? `<img src="${logoUrl}" alt="${teamAbbr}" style="width: 60px; height: 60px;${showLogoBorders ? ' border: 2px solid white;' : ''}" onerror="this.style.display='none'; this.parentNode.innerHTML='${teamAbbr}';" />`
+                    : teamAbbr,
                   iconSize: [60, 60],
                   iconAnchor: [30, 30]
                 }),

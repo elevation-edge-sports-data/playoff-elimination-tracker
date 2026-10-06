@@ -56,10 +56,15 @@ assert.deepEqual(walk("nhl", "2024", "next", 6), [
   "nhl 2026",
 ]);
 
+// Next from the last completed winter reaches the in-progress seasons.
+assert.deepEqual(step("nhl", "2026", "next", true), { sport: "nfl", season: "2026" });
+assert.deepEqual(step("nfl", "2026", "next", true), { sport: "nba", season: "2027" });
+assert.deepEqual(step("nba", "2027", "next", true), { sport: "nhl", season: "2027" });
+
 // Newest wraps to the oldest on Next. Oldest wraps to the newest on Previous.
-const newest = step("nhl", "2026", "next", true);
+const newest = step("nhl", "2027", "next", true);
 const backToNewest = step(newest.sport, newest.season, "prev", true);
-assert.deepEqual(backToNewest, { sport: "nhl", season: "2026" });
+assert.deepEqual(backToNewest, { sport: "nhl", season: "2027" });
 assert.equal(newest.sport, "nhl");
 assert.equal(newest.season, years.nhl.map(Number).sort((a, b) => a - b)[0] + "");
 
@@ -73,11 +78,13 @@ assert.equal(years.nhl.includes("2005"), false);
 
 // Sport Cycle off stays on the same sport and still wraps.
 assert.deepEqual(step("nba", "2026", "prev", false), { sport: "nba", season: "2025" });
-assert.deepEqual(step("nfl", "2025", "next", false), {
+assert.deepEqual(step("nfl", "2025", "next", false), { sport: "nfl", season: "2026" });
+assert.deepEqual(step("nfl", "2026", "next", false), {
   sport: "nfl",
   season: years.nfl.map(Number).sort((a, b) => a - b)[0] + "",
 });
 assert.deepEqual(step("nhl", "2026", "prev", false), { sport: "nhl", season: "2025" });
+assert.deepEqual(step("nhl", "2026", "next", false), { sport: "nhl", season: "2027" });
 
 const app = fs.readFileSync(path.join(root, "assets", "app.js"), "utf8");
 const html = fs.readFileSync(path.join(root, "index.html"), "utf8");

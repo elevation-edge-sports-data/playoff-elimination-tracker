@@ -1,7 +1,8 @@
 // How a club mark is drawn on the map. Ground is the full-color file
 // with the existing shadow. Outline keeps that color and adds a light
 // keyline plus a dark outer edge. A stored "knockout" value is ground.
-// NHL2011 is the 2010-11 season, so Tampa Bay stays on that folder's crest.
+// A catalog hit is ../../logos/{sport}/{abbr}/{file} from /archive/v5/.
+// A miss keeps the year-folder path, ./logos/{SPORT}{year}/{abbr}.png.
 (function (root, factory) {
   var api = factory();
   if (typeof module === "object" && module.exports) module.exports = api;
@@ -20,6 +21,13 @@
   }
 
   function resolveLogoUrl(sport, year, abbr, fallback) {
+    var s = String(sport).toLowerCase();
+    var a = String(abbr);
+    var y = String(year);
+    var host = typeof globalThis !== "undefined" ? globalThis : {};
+    var table = (host.LOGO_SEASON_LOOKUP || {})[s];
+    var file = table && table[a] && table[a][y];
+    if (file) return "../../logos/" + s + "/" + a + "/" + file;
     return fallback || standardLogoUrl(sport, year, abbr);
   }
 

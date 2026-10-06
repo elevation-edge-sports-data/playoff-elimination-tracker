@@ -2,7 +2,7 @@
 
 Frozen copy of the original Leaflet map (1918–2026 arena logos, play/pause/step).
 
-This folder is served at `/archive/v1/`. Season logos are reused from the v2 tree at `/logos/` (`../../logos` from this page).
+This folder is served at `/archive/v1/`. Season logos come from the current tree at `../../logos/nhl/{abbr}/`, chosen by `../../catalog/season_lookup.js`. They are not copied into this archive.
 
 The current Cup Territory app is v2 at the site root.
 

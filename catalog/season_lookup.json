@@ -43,7 +43,8 @@
       "2023": "ANA-NHL-2014-2024.png",
       "2024": "ANA-NHL-2014-2024.png",
       "2025": "ANA-NHL-2025-pres.png",
-      "2026": "ANA-NHL-2025-pres.png"
+      "2026": "ANA-NHL-2025-pres.png",
+      "2027": "ANA-NHL-2025-pres.png"
     },
     "ARI": {
       "1997": "ARI-NHL-1997-1999.png",
@@ -191,7 +192,8 @@
       "2023": "BOS-NHL-2009-2023.png",
       "2024": "BOS-NHL-2024-2024.png",
       "2025": "BOS-NHL-2025-2025.png",
-      "2026": "BOS-NHL-2026-pres.png"
+      "2026": "BOS-NHL-2026-pres.png",
+      "2027": "BOS-NHL-2026-pres.png"
     },
     "BRK": {
       "1926": "BRK-NHL-1926-1933.png",
@@ -268,7 +270,8 @@
       "2023": "BUF-NHL-2021-pres.png",
       "2024": "BUF-NHL-2021-pres.png",
       "2025": "BUF-NHL-2021-pres.png",
-      "2026": "BUF-NHL-2021-pres.png"
+      "2026": "BUF-NHL-2021-pres.png",
+      "2027": "BUF-NHL-2021-pres.png"
     },
     "CAR": {
       "1998": "CAR-NHL-1998-1999.png",
@@ -299,7 +302,8 @@
       "2023": "CAR-NHL-2000-pres.png",
       "2024": "CAR-NHL-2000-pres.png",
       "2025": "CAR-NHL-2000-pres.png",
-      "2026": "CAR-NHL-2000-pres.png"
+      "2026": "CAR-NHL-2000-pres.png",
+      "2027": "CAR-NHL-2000-pres.png"
     },
     "CBJ": {
       "2001": "CBJ-NHL-2001-2007.png",
@@ -327,7 +331,8 @@
       "2023": "CBJ-NHL-2008-pres.png",
       "2024": "CBJ-NHL-2008-pres.png",
       "2025": "CBJ-NHL-2008-pres.png",
-      "2026": "CBJ-NHL-2008-pres.png"
+      "2026": "CBJ-NHL-2008-pres.png",
+      "2027": "CBJ-NHL-2008-pres.png"
     },
     "CGS": {
       "1968": "CGS-NHL-1968-1970.png",
@@ -386,7 +391,8 @@
       "2023": "CGY-NHL-2021-pres.png",
       "2024": "CGY-NHL-2021-pres.png",
       "2025": "CGY-NHL-2021-pres.png",
-      "2026": "CGY-NHL-2021-pres.png"
+      "2026": "CGY-NHL-2021-pres.png",
+      "2027": "CGY-NHL-2021-pres.png"
     },
     "CHI": {
       "1927": "CHI-NHL-1927-1935.png",
@@ -488,7 +494,8 @@
       "2023": "CHI-NHL-2000-pres.png",
       "2024": "CHI-NHL-2000-pres.png",
       "2025": "CHI-NHL-2000-pres.png",
-      "2026": "CHI-NHL-2000-pres.png"
+      "2026": "CHI-NHL-2000-pres.png",
+      "2027": "CHI-NHL-2000-pres.png"
     },
     "CLE": {
       "1977": "CLE-NHL-1977-1978.png",
@@ -533,7 +540,8 @@
       "2023": "COL-NHL-2000-pres.png",
       "2024": "COL-NHL-2000-pres.png",
       "2025": "COL-NHL-2000-pres.png",
-      "2026": "COL-NHL-2000-pres.png"
+      "2026": "COL-NHL-2000-pres.png",
+      "2027": "COL-NHL-2000-pres.png"
     },
     "DAL": {
       "1994": "DAL-NHL-1994-1994.png",
@@ -568,7 +576,8 @@
       "2023": "DAL-NHL-2022-pres.png",
       "2024": "DAL-NHL-2022-pres.png",
       "2025": "DAL-NHL-2022-pres.png",
-      "2026": "DAL-NHL-2022-pres.png"
+      "2026": "DAL-NHL-2022-pres.png",
+      "2027": "DAL-NHL-2022-pres.png"
     },
     "DCG": {
       "1927": "DCG-NHL-1927-1930.png",
@@ -670,7 +679,8 @@
       "2023": "DET-NHL-1949-pres.png",
       "2024": "DET-NHL-1949-pres.png",
       "2025": "DET-NHL-1949-pres.png",
-      "2026": "DET-NHL-1949-pres.png"
+      "2026": "DET-NHL-1949-pres.png",
+      "2027": "DET-NHL-1949-pres.png"
     },
     "DFL": {
       "1931": "DFL-NHL-1931-1932.png",
@@ -730,7 +740,8 @@
       "2023": "EDM-NHL-2023-pres.png",
       "2024": "EDM-NHL-2023-pres.png",
       "2025": "EDM-NHL-2023-pres.png",
-      "2026": "EDM-NHL-2023-pres.png"
+      "2026": "EDM-NHL-2023-pres.png",
+      "2027": "EDM-NHL-2023-pres.png"
     },
     "FLA": {
       "1994": "FLA-NHL-1994-1999.png",
@@ -765,7 +776,8 @@
       "2023": "FLA-NHL-2017-pres.png",
       "2024": "FLA-NHL-2017-pres.png",
       "2025": "FLA-NHL-2017-pres.png",
-      "2026": "FLA-NHL-2017-pres.png"
+      "2026": "FLA-NHL-2017-pres.png",
+      "2027": "FLA-NHL-2017-pres.png"
     },
     "HAM": {
       "1921": "HAM-NHL-1921-1921.png",
@@ -864,7 +876,8 @@
       "2023": "LAK-NHL-2020-2024.png",
       "2024": "LAK-NHL-2020-2024.png",
       "2025": "LAK-NHL-2025-pres.png",
-      "2026": "LAK-NHL-2025-pres.png"
+      "2026": "LAK-NHL-2025-pres.png",
+      "2027": "LAK-NHL-2025-pres.png"
     },
     "MIN": {
       "2001": "MIN-NHL-2001-2013.png",
@@ -892,7 +905,8 @@
       "2023": "MIN-NHL-2014-pres.png",
       "2024": "MIN-NHL-2014-pres.png",
       "2025": "MIN-NHL-2014-pres.png",
-      "2026": "MIN-NHL-2014-pres.png"
+      "2026": "MIN-NHL-2014-pres.png",
+      "2027": "MIN-NHL-2014-pres.png"
     },
     "MMR": {
       "1925": "MMR-NHL-1925-1925.png",
@@ -1047,7 +1061,8 @@
       "2023": "MTL-NHL-2000-pres.png",
       "2024": "MTL-NHL-2000-pres.png",
       "2025": "MTL-NHL-2000-pres.png",
-      "2026": "MTL-NHL-2000-pres.png"
+      "2026": "MTL-NHL-2000-pres.png",
+      "2027": "MTL-NHL-2000-pres.png"
     },
     "MWN": {
       "1918": "MWN-NHL-1918-1918.png"
@@ -1096,7 +1111,8 @@
       "2023": "NJD-NHL-2000-pres.png",
       "2024": "NJD-NHL-2000-pres.png",
       "2025": "NJD-NHL-2000-pres.png",
-      "2026": "NJD-NHL-2000-pres.png"
+      "2026": "NJD-NHL-2000-pres.png",
+      "2027": "NJD-NHL-2000-pres.png"
     },
     "NSH": {
       "1999": "NSH-NHL-1999-2011.png",
@@ -1126,7 +1142,8 @@
       "2023": "NSH-NHL-2012-pres.png",
       "2024": "NSH-NHL-2012-pres.png",
       "2025": "NSH-NHL-2012-pres.png",
-      "2026": "NSH-NHL-2012-pres.png"
+      "2026": "NSH-NHL-2012-pres.png",
+      "2027": "NSH-NHL-2012-pres.png"
     },
     "NYA": {
       "1926": "NYA-NHL-1926-1933.png",
@@ -1201,7 +1218,8 @@
       "2023": "NYI-NHL-2018-pres.png",
       "2024": "NYI-NHL-2018-pres.png",
       "2025": "NYI-NHL-2018-pres.png",
-      "2026": "NYI-NHL-2018-pres.png"
+      "2026": "NYI-NHL-2018-pres.png",
+      "2027": "NYI-NHL-2018-pres.png"
     },
     "NYR": {
       "1927": "NYR-NHL-1927-1947.png",
@@ -1303,7 +1321,8 @@
       "2023": "NYR-NHL-2000-pres.png",
       "2024": "NYR-NHL-2000-pres.png",
       "2025": "NYR-NHL-2000-pres.png",
-      "2026": "NYR-NHL-2000-pres.png"
+      "2026": "NYR-NHL-2000-pres.png",
+      "2027": "NYR-NHL-2000-pres.png"
     },
     "OAK": {
       "1968": "OAK-NHL-1968-1970.png",
@@ -1350,7 +1369,8 @@
       "2023": "OTT-NHL-2021-pres.png",
       "2024": "OTT-NHL-2021-pres.png",
       "2025": "OTT-NHL-2021-pres.png",
-      "2026": "OTT-NHL-2021-pres.png"
+      "2026": "OTT-NHL-2021-pres.png",
+      "2027": "OTT-NHL-2021-pres.png"
     },
     "PHI": {
       "1968": "PHI-NHL-1968-1999.png",
@@ -1411,7 +1431,8 @@
       "2023": "PHI-NHL-2000-2023.png",
       "2024": "PHI-NHL-2024-pres.png",
       "2025": "PHI-NHL-2024-pres.png",
-      "2026": "PHI-NHL-2024-pres.png"
+      "2026": "PHI-NHL-2024-pres.png",
+      "2027": "PHI-NHL-2024-pres.png"
     },
     "PHX": {
       "1997": "PHX-NHL-1997-1999.png",
@@ -1509,7 +1530,8 @@
       "2023": "PIT-NHL-2017-pres.png",
       "2024": "PIT-NHL-2017-pres.png",
       "2025": "PIT-NHL-2017-pres.png",
-      "2026": "PIT-NHL-2017-pres.png"
+      "2026": "PIT-NHL-2017-pres.png",
+      "2027": "PIT-NHL-2017-pres.png"
     },
     "QBD": {
       "1920": "QBD-NHL-1920-1920.png"
@@ -1547,7 +1569,8 @@
       "2023": "SEA-NHL-2022-pres.png",
       "2024": "SEA-NHL-2022-pres.png",
       "2025": "SEA-NHL-2022-pres.png",
-      "2026": "SEA-NHL-2022-pres.png"
+      "2026": "SEA-NHL-2022-pres.png",
+      "2027": "SEA-NHL-2022-pres.png"
     },
     "SEN": {
       "1918": "SEN-NHL-1918-1931.png",
@@ -1602,7 +1625,8 @@
       "2023": "SJS-NHL-2009-pres.png",
       "2024": "SJS-NHL-2009-pres.png",
       "2025": "SJS-NHL-2009-pres.png",
-      "2026": "SJS-NHL-2009-pres.png"
+      "2026": "SJS-NHL-2009-pres.png",
+      "2027": "SJS-NHL-2009-pres.png"
     },
     "SLE": {
       "1935": "SLE-NHL-1935-1935.png"
@@ -1666,7 +1690,8 @@
       "2023": "STL-NHL-2009-2025.png",
       "2024": "STL-NHL-2009-2025.png",
       "2025": "STL-NHL-2009-2025.png",
-      "2026": "STL-NHL-2026-pres.png"
+      "2026": "STL-NHL-2026-pres.png",
+      "2027": "STL-NHL-2026-pres.png"
     },
     "TAN": {
       "1918": "TAN-NHL-1918-1918.png",
@@ -1706,7 +1731,8 @@
       "2023": "TBL-NHL-2012-pres.png",
       "2024": "TBL-NHL-2012-pres.png",
       "2025": "TBL-NHL-2012-pres.png",
-      "2026": "TBL-NHL-2012-pres.png"
+      "2026": "TBL-NHL-2012-pres.png",
+      "2027": "TBL-NHL-2012-pres.png"
     },
     "TOR": {
       "1927": "TOR-NHL-1927-1927.png",
@@ -1808,7 +1834,8 @@
       "2023": "TOR-NHL-2017-pres.png",
       "2024": "TOR-NHL-2017-pres.png",
       "2025": "TOR-NHL-2017-pres.png",
-      "2026": "TOR-NHL-2017-pres.png"
+      "2026": "TOR-NHL-2017-pres.png",
+      "2027": "TOR-NHL-2017-pres.png"
     },
     "TSP": {
       "1920": "TSP-NHL-1920-1922.png",
@@ -1822,7 +1849,8 @@
     },
     "UTA": {
       "2025": "UTA-NHL-2025-2025.png",
-      "2026": "UTA-NHL-2026-pres.png"
+      "2026": "UTA-NHL-2026-pres.png",
+      "2027": "UTA-NHL-2026-pres.png"
     },
     "VAN": {
       "1971": "VAN-NHL-1971-1978.png",
@@ -1880,7 +1908,8 @@
       "2023": "VAN-NHL-2020-pres.png",
       "2024": "VAN-NHL-2020-pres.png",
       "2025": "VAN-NHL-2020-pres.png",
-      "2026": "VAN-NHL-2020-pres.png"
+      "2026": "VAN-NHL-2020-pres.png",
+      "2027": "VAN-NHL-2020-pres.png"
     },
     "VGK": {
       "2018": "VGK-NHL-2018-pres.png",
@@ -1891,7 +1920,8 @@
       "2023": "VGK-NHL-2018-pres.png",
       "2024": "VGK-NHL-2018-pres.png",
       "2025": "VGK-NHL-2018-pres.png",
-      "2026": "VGK-NHL-2018-pres.png"
+      "2026": "VGK-NHL-2018-pres.png",
+      "2027": "VGK-NHL-2018-pres.png"
     },
     "WIN": {
       "1980": "WIN-NHL-1980-1990.png",
@@ -1927,7 +1957,8 @@
       "2023": "WPG-NHL-2012-pres.png",
       "2024": "WPG-NHL-2012-pres.png",
       "2025": "WPG-NHL-2012-pres.png",
-      "2026": "WPG-NHL-2012-pres.png"
+      "2026": "WPG-NHL-2012-pres.png",
+      "2027": "WPG-NHL-2012-pres.png"
     },
     "WSH": {
       "1975": "WSH-NHL-1975-1995.png",
@@ -1981,7 +2012,8 @@
       "2023": "WSH-NHL-2008-pres.png",
       "2024": "WSH-NHL-2008-pres.png",
       "2025": "WSH-NHL-2008-pres.png",
-      "2026": "WSH-NHL-2008-pres.png"
+      "2026": "WSH-NHL-2008-pres.png",
+      "2027": "WSH-NHL-2008-pres.png"
     }
   },
   "nba": {
@@ -2043,7 +2075,8 @@
       "2023": "ATL-NBA-2021-pres.png",
       "2024": "ATL-NBA-2021-pres.png",
       "2025": "ATL-NBA-2021-pres.png",
-      "2026": "ATL-NBA-2021-pres.png"
+      "2026": "ATL-NBA-2021-pres.png",
+      "2027": "ATL-NBA-2021-pres.png"
     },
     "BAL": {
       "1964": "BAL-NBA-1964-1969.png",
@@ -2071,7 +2104,8 @@
       "2023": "BKN-NBA-2013-2024.png",
       "2024": "BKN-NBA-2013-2024.png",
       "2025": "BKN-NBA-2025-pres.png",
-      "2026": "BKN-NBA-2025-pres.png"
+      "2026": "BKN-NBA-2025-pres.png",
+      "2027": "BKN-NBA-2025-pres.png"
     },
     "BLB": {
       "1948": "BLB-NBA-1948-1954.png",
@@ -2162,7 +2196,8 @@
       "2023": "BOS-NBA-1997-pres.png",
       "2024": "BOS-NBA-1997-pres.png",
       "2025": "BOS-NBA-1997-pres.png",
-      "2026": "BOS-NBA-1997-pres.png"
+      "2026": "BOS-NBA-1997-pres.png",
+      "2027": "BOS-NBA-1997-pres.png"
     },
     "BUF": {
       "1971": "BUF-NBA-1971-1971.png",
@@ -2210,7 +2245,8 @@
       "2023": "CHA-NBA-2015-pres.png",
       "2024": "CHA-NBA-2015-pres.png",
       "2025": "CHA-NBA-2015-pres.png",
-      "2026": "CHA-NBA-2015-pres.png"
+      "2026": "CHA-NBA-2015-pres.png",
+      "2027": "CHA-NBA-2015-pres.png"
     },
     "CHH": {
       "1989": "CHH-NBA-1989-2002.png",
@@ -2300,7 +2336,8 @@
       "2023": "CHI-NBA-1967-pres.png",
       "2024": "CHI-NBA-1967-pres.png",
       "2025": "CHI-NBA-1967-pres.png",
-      "2026": "CHI-NBA-1967-pres.png"
+      "2026": "CHI-NBA-1967-pres.png",
+      "2027": "CHI-NBA-1967-pres.png"
     },
     "CHS": {
       "1947": "CHS-NBA-1947-1950.png",
@@ -2381,7 +2418,8 @@
       "2023": "CLE-NBA-2023-pres.png",
       "2024": "CLE-NBA-2023-pres.png",
       "2025": "CLE-NBA-2023-pres.png",
-      "2026": "CLE-NBA-2023-pres.png"
+      "2026": "CLE-NBA-2023-pres.png",
+      "2027": "CLE-NBA-2023-pres.png"
     },
     "DAL": {
       "1981": "DAL-NBA-1981-1993.png",
@@ -2429,7 +2467,8 @@
       "2023": "DAL-NBA-2018-pres.png",
       "2024": "DAL-NBA-2018-pres.png",
       "2025": "DAL-NBA-2018-pres.png",
-      "2026": "DAL-NBA-2018-pres.png"
+      "2026": "DAL-NBA-2018-pres.png",
+      "2027": "DAL-NBA-2018-pres.png"
     },
     "DEN": {
       "1975": "DEN-NBA-1975-1976.png",
@@ -2483,7 +2522,8 @@
       "2023": "DEN-NBA-2019-pres.png",
       "2024": "DEN-NBA-2019-pres.png",
       "2025": "DEN-NBA-2019-pres.png",
-      "2026": "DEN-NBA-2019-pres.png"
+      "2026": "DEN-NBA-2019-pres.png",
+      "2027": "DEN-NBA-2019-pres.png"
     },
     "DET": {
       "1958": "DET-NBA-1958-1968.png",
@@ -2554,7 +2594,8 @@
       "2023": "DET-NBA-2018-pres.png",
       "2024": "DET-NBA-2018-pres.png",
       "2025": "DET-NBA-2018-pres.png",
-      "2026": "DET-NBA-2018-pres.png"
+      "2026": "DET-NBA-2018-pres.png",
+      "2027": "DET-NBA-2018-pres.png"
     },
     "DNN": {
       "1950": "DNN-NBA-1950-1950.png"
@@ -2636,7 +2677,8 @@
       "2023": "GSW-NBA-2020-pres.png",
       "2024": "GSW-NBA-2020-pres.png",
       "2025": "GSW-NBA-2020-pres.png",
-      "2026": "GSW-NBA-2020-pres.png"
+      "2026": "GSW-NBA-2020-pres.png",
+      "2027": "GSW-NBA-2020-pres.png"
     },
     "HOU": {
       "1972": "HOU-NBA-1972-1972.png",
@@ -2693,7 +2735,8 @@
       "2023": "HOU-NBA-2020-2026.png",
       "2024": "HOU-NBA-2020-2026.png",
       "2025": "HOU-NBA-2020-2026.png",
-      "2026": "HOU-NBA-2020-2026.png"
+      "2026": "HOU-NBA-2020-2026.png",
+      "2027": "HOU-NBA-2020-2026.png"
     },
     "IND": {
       "1968": "IND-NBA-1968-1976.png",
@@ -2754,7 +2797,8 @@
       "2023": "IND-NBA-2018-2025.png",
       "2024": "IND-NBA-2018-2025.png",
       "2025": "IND-NBA-2018-2025.png",
-      "2026": "IND-NBA-2026-pres.png"
+      "2026": "IND-NBA-2026-pres.png",
+      "2027": "IND-NBA-2026-pres.png"
     },
     "KCK": {
       "1973": "KCK-NBA-1973-1975.png",
@@ -2813,7 +2857,8 @@
       "2023": "LAC-NBA-2019-2024.png",
       "2024": "LAC-NBA-2019-2024.png",
       "2025": "LAC-NBA-2025-pres.png",
-      "2026": "LAC-NBA-2025-pres.png"
+      "2026": "LAC-NBA-2025-pres.png",
+      "2027": "LAC-NBA-2025-pres.png"
     },
     "LAL": {
       "1961": "LAL-NBA-1961-1965.png",
@@ -2881,7 +2926,8 @@
       "2023": "LAL-NBA-2018-2023.png",
       "2024": "LAL-NBA-2024-pres.png",
       "2025": "LAL-NBA-2024-pres.png",
-      "2026": "LAL-NBA-2024-pres.png"
+      "2026": "LAL-NBA-2024-pres.png",
+      "2027": "LAL-NBA-2024-pres.png"
     },
     "MEM": {
       "2002": "MEM-NBA-2002-2004.png",
@@ -2908,7 +2954,8 @@
       "2023": "MEM-NBA-2019-pres.png",
       "2024": "MEM-NBA-2019-pres.png",
       "2025": "MEM-NBA-2019-pres.png",
-      "2026": "MEM-NBA-2019-pres.png"
+      "2026": "MEM-NBA-2019-pres.png",
+      "2027": "MEM-NBA-2019-pres.png"
     },
     "MIA": {
       "1989": "MIA-NBA-1989-1999.png",
@@ -2948,7 +2995,8 @@
       "2023": "MIA-NBA-2000-pres.png",
       "2024": "MIA-NBA-2000-pres.png",
       "2025": "MIA-NBA-2000-pres.png",
-      "2026": "MIA-NBA-2000-pres.png"
+      "2026": "MIA-NBA-2000-pres.png",
+      "2027": "MIA-NBA-2000-pres.png"
     },
     "MIL": {
       "1969": "MIL-NBA-1969-1993.png",
@@ -3008,7 +3056,8 @@
       "2023": "MIL-NBA-2016-pres.png",
       "2024": "MIL-NBA-2016-pres.png",
       "2025": "MIL-NBA-2016-pres.png",
-      "2026": "MIL-NBA-2016-pres.png"
+      "2026": "MIL-NBA-2016-pres.png",
+      "2027": "MIL-NBA-2016-pres.png"
     },
     "MIN": {
       "1990": "MIN-NBA-1990-1996.png",
@@ -3047,7 +3096,8 @@
       "2023": "MIN-NBA-2018-2026.png",
       "2024": "MIN-NBA-2018-2026.png",
       "2025": "MIN-NBA-2018-2026.png",
-      "2026": "MIN-NBA-2018-2026.png"
+      "2026": "MIN-NBA-2018-2026.png",
+      "2027": "MIN-NBA-2018-2026.png"
     },
     "MLH": {
       "1952": "MLH-NBA-1952-1954.png",
@@ -3149,7 +3199,8 @@
       "2023": "NOP-NBA-2014-2023.png",
       "2024": "NOP-NBA-2024-pres.png",
       "2025": "NOP-NBA-2024-pres.png",
-      "2026": "NOP-NBA-2024-pres.png"
+      "2026": "NOP-NBA-2024-pres.png",
+      "2027": "NOP-NBA-2024-pres.png"
     },
     "NYK": {
       "1947": "NYK-NBA-1947-1964.png",
@@ -3231,7 +3282,8 @@
       "2023": "NYK-NBA-2023-2023.png",
       "2024": "NYK-NBA-2024-pres.png",
       "2025": "NYK-NBA-2024-pres.png",
-      "2026": "NYK-NBA-2024-pres.png"
+      "2026": "NYK-NBA-2024-pres.png",
+      "2027": "NYK-NBA-2024-pres.png"
     },
     "OKC": {
       "2009": "OKC-NBA-2009-pres.png",
@@ -3251,7 +3303,8 @@
       "2023": "OKC-NBA-2009-pres.png",
       "2024": "OKC-NBA-2009-pres.png",
       "2025": "OKC-NBA-2009-pres.png",
-      "2026": "OKC-NBA-2009-pres.png"
+      "2026": "OKC-NBA-2009-pres.png",
+      "2027": "OKC-NBA-2009-pres.png"
     },
     "ORL": {
       "1990": "ORL-NBA-1990-1998.png",
@@ -3290,7 +3343,8 @@
       "2023": "ORL-NBA-2011-2025.png",
       "2024": "ORL-NBA-2011-2025.png",
       "2025": "ORL-NBA-2011-2025.png",
-      "2026": "ORL-NBA-2026-pres.png"
+      "2026": "ORL-NBA-2026-pres.png",
+      "2027": "ORL-NBA-2026-pres.png"
     },
     "PHI": {
       "1964": "PHI-NBA-1964-1977.png",
@@ -3355,7 +3409,8 @@
       "2023": "PHI-NBA-2016-pres.png",
       "2024": "PHI-NBA-2016-pres.png",
       "2025": "PHI-NBA-2016-pres.png",
-      "2026": "PHI-NBA-2016-pres.png"
+      "2026": "PHI-NBA-2016-pres.png",
+      "2027": "PHI-NBA-2016-pres.png"
     },
     "PHW": {
       "1947": "PHW-NBA-1947-1951.png",
@@ -3433,7 +3488,8 @@
       "2023": "PHX-NBA-2014-pres.png",
       "2024": "PHX-NBA-2014-pres.png",
       "2025": "PHX-NBA-2014-pres.png",
-      "2026": "PHX-NBA-2014-pres.png"
+      "2026": "PHX-NBA-2014-pres.png",
+      "2027": "PHX-NBA-2014-pres.png"
     },
     "POR": {
       "1971": "POR-NBA-1971-1990.png",
@@ -3491,7 +3547,8 @@
       "2023": "POR-NBA-2018-pres.png",
       "2024": "POR-NBA-2018-pres.png",
       "2025": "POR-NBA-2018-pres.png",
-      "2026": "POR-NBA-2018-pres.png"
+      "2026": "POR-NBA-2018-pres.png",
+      "2027": "POR-NBA-2018-pres.png"
     },
     "PRO": {
       "1947": "PRO-NBA-1947-1949.png",
@@ -3552,7 +3609,8 @@
       "2023": "SAC-NBA-2017-pres.png",
       "2024": "SAC-NBA-2017-pres.png",
       "2025": "SAC-NBA-2017-pres.png",
-      "2026": "SAC-NBA-2017-pres.png"
+      "2026": "SAC-NBA-2017-pres.png",
+      "2027": "SAC-NBA-2017-pres.png"
     },
     "SAS": {
       "1977": "SAS-NBA-1977-1989.png",
@@ -3604,7 +3662,8 @@
       "2023": "SAS-NBA-2018-pres.png",
       "2024": "SAS-NBA-2018-pres.png",
       "2025": "SAS-NBA-2018-pres.png",
-      "2026": "SAS-NBA-2018-pres.png"
+      "2026": "SAS-NBA-2018-pres.png",
+      "2027": "SAS-NBA-2018-pres.png"
     },
     "SDC": {
       "1979": "SDC-NBA-1979-1982.png",
@@ -3800,7 +3859,8 @@
       "2023": "TOR-NBA-2021-pres.png",
       "2024": "TOR-NBA-2021-pres.png",
       "2025": "TOR-NBA-2021-pres.png",
-      "2026": "TOR-NBA-2021-pres.png"
+      "2026": "TOR-NBA-2021-pres.png",
+      "2027": "TOR-NBA-2021-pres.png"
     },
     "TRH": {
       "1947": "TRH-NBA-1947-1947.png"
@@ -3856,7 +3916,8 @@
       "2023": "UTA-NBA-2023-2025.png",
       "2024": "UTA-NBA-2023-2025.png",
       "2025": "UTA-NBA-2023-2025.png",
-      "2026": "UTA-NBA-2026-pres.png"
+      "2026": "UTA-NBA-2026-pres.png",
+      "2027": "UTA-NBA-2026-pres.png"
     },
     "VAN": {
       "1996": "VAN-NBA-1996-2001.png",
@@ -3895,7 +3956,8 @@
       "2023": "WAS-NBA-2016-pres.png",
       "2024": "WAS-NBA-2016-pres.png",
       "2025": "WAS-NBA-2016-pres.png",
-      "2026": "WAS-NBA-2016-pres.png"
+      "2026": "WAS-NBA-2016-pres.png",
+      "2027": "WAS-NBA-2016-pres.png"
     },
     "WSB": {
       "1974": "WSB-NBA-1974-1974.png",
@@ -3985,7 +4047,8 @@
       "2022": "ARI-NFL-2005-pres.png",
       "2023": "ARI-NFL-2005-pres.png",
       "2024": "ARI-NFL-2005-pres.png",
-      "2025": "ARI-NFL-2005-pres.png"
+      "2025": "ARI-NFL-2005-pres.png",
+      "2026": "ARI-NFL-2005-pres.png"
     },
     "ATL": {
       "1966": "ATL-NFL-1966-1988.png",
@@ -4047,7 +4110,8 @@
       "2022": "ATL-NFL-2003-pres.png",
       "2023": "ATL-NFL-2003-pres.png",
       "2024": "ATL-NFL-2003-pres.png",
-      "2025": "ATL-NFL-2003-pres.png"
+      "2025": "ATL-NFL-2003-pres.png",
+      "2026": "ATL-NFL-2003-pres.png"
     },
     "BAL": {
       "1996": "BAL-NFL-1996-1998.png",
@@ -4079,7 +4143,8 @@
       "2022": "BAL-NFL-1999-pres.png",
       "2023": "BAL-NFL-1999-pres.png",
       "2024": "BAL-NFL-1999-pres.png",
-      "2025": "BAL-NFL-1999-pres.png"
+      "2025": "BAL-NFL-1999-pres.png",
+      "2026": "BAL-NFL-1999-pres.png"
     },
     "BUF": {
       "1966": "BUF-NFL-1964-1969.png",
@@ -4141,7 +4206,8 @@
       "2022": "BUF-NFL-1974-pres.png",
       "2023": "BUF-NFL-1974-pres.png",
       "2024": "BUF-NFL-1974-pres.png",
-      "2025": "BUF-NFL-1974-pres.png"
+      "2025": "BUF-NFL-1974-pres.png",
+      "2026": "BUF-NFL-1974-pres.png"
     },
     "CAR": {
       "1995": "CAR-NFL-1995-2011.png",
@@ -4174,7 +4240,8 @@
       "2022": "CAR-NFL-2012-pres.png",
       "2023": "CAR-NFL-2012-pres.png",
       "2024": "CAR-NFL-2012-pres.png",
-      "2025": "CAR-NFL-2012-pres.png"
+      "2025": "CAR-NFL-2012-pres.png",
+      "2026": "CAR-NFL-2012-pres.png"
     },
     "CHI": {
       "1966": "CHI-NFL-1955-1988.png",
@@ -4236,7 +4303,8 @@
       "2022": "CHI-NFL-2002-2022.png",
       "2023": "CHI-NFL-2023-pres.png",
       "2024": "CHI-NFL-2023-pres.png",
-      "2025": "CHI-NFL-2023-pres.png"
+      "2025": "CHI-NFL-2023-pres.png",
+      "2026": "CHI-NFL-2023-pres.png"
     },
     "CIN": {
       "1968": "CIN-NFL-1968-1970.png",
@@ -4293,7 +4361,8 @@
       "2022": "CIN-NFL-2021-pres.png",
       "2023": "CIN-NFL-2021-pres.png",
       "2024": "CIN-NFL-2021-pres.png",
-      "2025": "CIN-NFL-2021-pres.png"
+      "2025": "CIN-NFL-2021-pres.png",
+      "2026": "CIN-NFL-2021-pres.png"
     },
     "CLE": {
       "1966": "CLE-NFL-1950-1969.png",
@@ -4352,7 +4421,8 @@
       "2022": "CLE-NFL-2015-2023.png",
       "2023": "CLE-NFL-2015-2023.png",
       "2024": "CLE-NFL-2024-pres.png",
-      "2025": "CLE-NFL-2024-pres.png"
+      "2025": "CLE-NFL-2024-pres.png",
+      "2026": "CLE-NFL-2024-pres.png"
     },
     "DAL": {
       "1966": "DAL-NFL-1960-1966.png",
@@ -4414,7 +4484,8 @@
       "2022": "DAL-NFL-2002-pres.png",
       "2023": "DAL-NFL-2002-pres.png",
       "2024": "DAL-NFL-2002-pres.png",
-      "2025": "DAL-NFL-2002-pres.png"
+      "2025": "DAL-NFL-2002-pres.png",
+      "2026": "DAL-NFL-2002-pres.png"
     },
     "DEN": {
       "1966": "DEN-NFL-1963-1969.png",
@@ -4476,7 +4547,8 @@
       "2022": "DEN-NFL-2002-pres.png",
       "2023": "DEN-NFL-2002-pres.png",
       "2024": "DEN-NFL-2002-pres.png",
-      "2025": "DEN-NFL-2002-pres.png"
+      "2025": "DEN-NFL-2002-pres.png",
+      "2026": "DEN-NFL-2002-pres.png"
     },
     "DET": {
       "1966": "DET-NFL-1961-1969.png",
@@ -4538,7 +4610,8 @@
       "2022": "DET-NFL-2017-pres.png",
       "2023": "DET-NFL-2017-pres.png",
       "2024": "DET-NFL-2017-pres.png",
-      "2025": "DET-NFL-2017-pres.png"
+      "2025": "DET-NFL-2017-pres.png",
+      "2026": "DET-NFL-2017-pres.png"
     },
     "GB": {
       "1966": "GB-NFL-1961-1979.png",
@@ -4600,7 +4673,8 @@
       "2022": "GB-NFL-1980-pres.png",
       "2023": "GB-NFL-1980-pres.png",
       "2024": "GB-NFL-1980-pres.png",
-      "2025": "GB-NFL-1980-pres.png"
+      "2025": "GB-NFL-1980-pres.png",
+      "2026": "GB-NFL-1980-pres.png"
     },
     "HOU": {
       "2002": "HOU-NFL-2002-2023.png",
@@ -4626,7 +4700,8 @@
       "2022": "HOU-NFL-2002-2023.png",
       "2023": "HOU-NFL-2002-2023.png",
       "2024": "HOU-NFL-2024-pres.png",
-      "2025": "HOU-NFL-2024-pres.png"
+      "2025": "HOU-NFL-2024-pres.png",
+      "2026": "HOU-NFL-2024-pres.png"
     },
     "IND": {
       "1966": "IND-NFL-1961-1978.png",
@@ -4688,7 +4763,8 @@
       "2022": "IND-NFL-2004-pres.png",
       "2023": "IND-NFL-2004-pres.png",
       "2024": "IND-NFL-2004-pres.png",
-      "2025": "IND-NFL-2004-pres.png"
+      "2025": "IND-NFL-2004-pres.png",
+      "2026": "IND-NFL-2004-pres.png"
     },
     "JAX": {
       "1995": "JAX-NFL-1995-2001.png",
@@ -4721,7 +4797,8 @@
       "2022": "JAX-NFL-2013-pres.png",
       "2023": "JAX-NFL-2013-pres.png",
       "2024": "JAX-NFL-2013-pres.png",
-      "2025": "JAX-NFL-2013-pres.png"
+      "2025": "JAX-NFL-2013-pres.png",
+      "2026": "JAX-NFL-2013-pres.png"
     },
     "KC": {
       "1966": "KC-NFL-1963-1966.png",
@@ -4783,7 +4860,8 @@
       "2022": "KC-NFL-1972-pres.png",
       "2023": "KC-NFL-1972-pres.png",
       "2024": "KC-NFL-1972-pres.png",
-      "2025": "KC-NFL-1972-pres.png"
+      "2025": "KC-NFL-1972-pres.png",
+      "2026": "KC-NFL-1972-pres.png"
     },
     "LAC": {
       "2017": "LAC-NFL-2017-2019.png",
@@ -4794,7 +4872,8 @@
       "2022": "LAC-NFL-2020-pres.png",
       "2023": "LAC-NFL-2020-pres.png",
       "2024": "LAC-NFL-2020-pres.png",
-      "2025": "LAC-NFL-2020-pres.png"
+      "2025": "LAC-NFL-2020-pres.png",
+      "2026": "LAC-NFL-2020-pres.png"
     },
     "LAR": {
       "1966": "LAR-NFL-1966-1982.png",
@@ -4835,7 +4914,8 @@
       "2022": "LAR-NFL-2020-2025.png",
       "2023": "LAR-NFL-2020-2025.png",
       "2024": "LAR-NFL-2020-2025.png",
-      "2025": "LAR-NFL-2020-2025.png"
+      "2025": "LAR-NFL-2020-2025.png",
+      "2026": "LAR-NFL-2020-2025.png"
     },
     "LV": {
       "2020": "LV-NFL-2020-pres.png",
@@ -4843,7 +4923,8 @@
       "2022": "LV-NFL-2020-pres.png",
       "2023": "LV-NFL-2020-pres.png",
       "2024": "LV-NFL-2020-pres.png",
-      "2025": "LV-NFL-2020-pres.png"
+      "2025": "LV-NFL-2020-pres.png",
+      "2026": "LV-NFL-2020-pres.png"
     },
     "MIA": {
       "1966": "MIA-NFL-1966-1972.png",
@@ -4905,7 +4986,8 @@
       "2022": "MIA-NFL-2018-pres.png",
       "2023": "MIA-NFL-2018-pres.png",
       "2024": "MIA-NFL-2018-pres.png",
-      "2025": "MIA-NFL-2018-pres.png"
+      "2025": "MIA-NFL-2018-pres.png",
+      "2026": "MIA-NFL-2018-pres.png"
     },
     "MIN": {
       "1966": "MIN-NFL-1961-1984.png",
@@ -4967,7 +5049,8 @@
       "2022": "MIN-NFL-2013-pres.png",
       "2023": "MIN-NFL-2013-pres.png",
       "2024": "MIN-NFL-2013-pres.png",
-      "2025": "MIN-NFL-2013-pres.png"
+      "2025": "MIN-NFL-2013-pres.png",
+      "2026": "MIN-NFL-2013-pres.png"
     },
     "NE": {
       "1966": "NE-NFL-1960-1971.png",
@@ -5029,7 +5112,8 @@
       "2022": "NE-NFL-2000-pres.png",
       "2023": "NE-NFL-2000-pres.png",
       "2024": "NE-NFL-2000-pres.png",
-      "2025": "NE-NFL-2000-pres.png"
+      "2025": "NE-NFL-2000-pres.png",
+      "2026": "NE-NFL-2000-pres.png"
     },
     "NO": {
       "1967": "NO-NFL-1967-1999.png",
@@ -5090,7 +5174,8 @@
       "2022": "NO-NFL-2017-pres.png",
       "2023": "NO-NFL-2017-pres.png",
       "2024": "NO-NFL-2017-pres.png",
-      "2025": "NO-NFL-2017-pres.png"
+      "2025": "NO-NFL-2017-pres.png",
+      "2026": "NO-NFL-2017-pres.png"
     },
     "NYG": {
       "1966": "NYG-NFL-1961-1974.png",
@@ -5152,7 +5237,8 @@
       "2022": "NYG-NFL-2000-pres.png",
       "2023": "NYG-NFL-2000-pres.png",
       "2024": "NYG-NFL-2000-pres.png",
-      "2025": "NYG-NFL-2000-pres.png"
+      "2025": "NYG-NFL-2000-pres.png",
+      "2026": "NYG-NFL-2000-pres.png"
     },
     "NYJ": {
       "1966": "NYJ-NFL-1964-1966.png",
@@ -5214,7 +5300,8 @@
       "2022": "NYJ-NFL-2019-2023.png",
       "2023": "NYJ-NFL-2019-2023.png",
       "2024": "NYJ-NFL-2024-pres.png",
-      "2025": "NYJ-NFL-2024-pres.png"
+      "2025": "NYJ-NFL-2024-pres.png",
+      "2026": "NYJ-NFL-2024-pres.png"
     },
     "OAK": {
       "1966": "OAK-NFL-1964-1981.png",
@@ -5332,7 +5419,8 @@
       "2022": "PHI-NFL-1996-pres.png",
       "2023": "PHI-NFL-1996-pres.png",
       "2024": "PHI-NFL-1996-pres.png",
-      "2025": "PHI-NFL-1996-pres.png"
+      "2025": "PHI-NFL-1996-pres.png",
+      "2026": "PHI-NFL-1996-pres.png"
     },
     "PIT": {
       "1966": "PIT-NFL-1962-1968.png",
@@ -5394,7 +5482,8 @@
       "2022": "PIT-NFL-2002-pres.png",
       "2023": "PIT-NFL-2002-pres.png",
       "2024": "PIT-NFL-2002-pres.png",
-      "2025": "PIT-NFL-2002-pres.png"
+      "2025": "PIT-NFL-2002-pres.png",
+      "2026": "PIT-NFL-2002-pres.png"
     },
     "SD": {
       "1966": "SD-NFL-1961-1973.png",
@@ -5499,7 +5588,8 @@
       "2022": "SEA-NFL-2012-pres.png",
       "2023": "SEA-NFL-2012-pres.png",
       "2024": "SEA-NFL-2012-pres.png",
-      "2025": "SEA-NFL-2012-pres.png"
+      "2025": "SEA-NFL-2012-pres.png",
+      "2026": "SEA-NFL-2012-pres.png"
     },
     "SF": {
       "1966": "SF-NFL-1954-1967.png",
@@ -5561,7 +5651,8 @@
       "2022": "SF-NFL-2009-pres.png",
       "2023": "SF-NFL-2009-pres.png",
       "2024": "SF-NFL-2009-pres.png",
-      "2025": "SF-NFL-2009-pres.png"
+      "2025": "SF-NFL-2009-pres.png",
+      "2026": "SF-NFL-2009-pres.png"
     },
     "STL": {
       "1995": "STL-NFL-1995-1999.png",
@@ -5636,7 +5727,8 @@
       "2022": "TB-NFL-2020-pres.png",
       "2023": "TB-NFL-2020-pres.png",
       "2024": "TB-NFL-2020-pres.png",
-      "2025": "TB-NFL-2020-pres.png"
+      "2025": "TB-NFL-2020-pres.png",
+      "2026": "TB-NFL-2020-pres.png"
     },
     "TEN": {
       "1966": "TEN-NFL-1961-1968.png",
@@ -5698,7 +5790,8 @@
       "2022": "TEN-NFL-2002-2025.png",
       "2023": "TEN-NFL-2002-2025.png",
       "2024": "TEN-NFL-2002-2025.png",
-      "2025": "TEN-NFL-2002-2025.png"
+      "2025": "TEN-NFL-2002-2025.png",
+      "2026": "TEN-NFL-2002-2025.png"
     },
     "WAS": {
       "1966": "WAS-NFL-1965-1969.png",
@@ -5760,7 +5853,8 @@
       "2022": "WAS-NFL-2022-pres.png",
       "2023": "WAS-NFL-2022-pres.png",
       "2024": "WAS-NFL-2022-pres.png",
-      "2025": "WAS-NFL-2022-pres.png"
+      "2025": "WAS-NFL-2022-pres.png",
+      "2026": "WAS-NFL-2022-pres.png"
     }
   }
 }
